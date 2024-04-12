@@ -23,7 +23,7 @@ description: 30여개 보험회사 각종 상담 신청 가입 문의>- # used b
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://insuranceall.github.io/"
+url: 'https://insuranceall.github.io/'
 
 github:
   username: insuranceall # change to your github username
