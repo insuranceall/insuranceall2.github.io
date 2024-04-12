@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 보험 정보 # the main title
 
-tagline: 30여개 보험회사 각종 상담 신청 가입 문의 # it will display as the sub-title
+tagline: 30여개 보험 회사 각종 상담 신청 가입 문의 # it will display as the sub-title
 
 description: 30여개 보험회사 각종 상담 신청 가입 문의>- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
